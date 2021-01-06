@@ -1,0 +1,26 @@
+# Completion engine
+.ycm_extra.conf.py
+
+# Python
+__pycache__
+
+# Image formats
+*.jpg
+*.jpeg
+*.jpe
+*.png
+*.gif
+*.tiff
+*.tif
+*.thumb
+*.thumbnail
+
+# Include files in the images directory
+!/images/**
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+.cache
